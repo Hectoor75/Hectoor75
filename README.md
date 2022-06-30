@@ -2,8 +2,6 @@
 
 :shipit: Futuro clasificador de imágenes :shipit:
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on haardcase
 - 🌱 I’m currently learning IoT
 - 👯 I’m looking to collaborate on IA
