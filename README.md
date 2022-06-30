@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**Hectoor75/Hectoor75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:shipit: Futuro clasificador de imágenes :shipit:
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on haardcase
+- 🌱 I’m currently learning IoT
+- 👯 I’m looking to collaborate on IA
+- 🤔 I’m looking for help with Image Classifier
+- 💬 Ask me about chocolat, life and memes
+- 📫 How to reach me: hectorjf24@gmail.com
+- 😄 Pronouns: Whatever is good
+- :cancer::cancer::cancer:
+<!--
+
